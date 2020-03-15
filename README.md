@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi glad to meet you
+
+i'm one of hippocratic oath
